@@ -1,37 +1,61 @@
-# cybersecurity-learning-journey
-My cybersecurity learning journey, documenting hands-on labs, TryHackMe challenges, networking, Linux, penetration testing concepts, and practical security projects.
-# Cybersecurity Learning Journey
+# Cybersecurity Notes & Learning Journey
 
-Welcome to my cybersecurity learning journey!
+Welcome to my Cybersecurity Learning Repository!
 
-I am learning cybersecurity, ethical hacking,
-networking, Linux, and penetration testing.
+I'm a beginner cybersecurity enthusiast working towards becoming a skilled cybersecurity professional, with a primary focus on **Web Security and Bug Bounty Hunting**.
 
-## About Me
-- Computer Science Student
-- Beginner Cybersecurity Learner
-- Interested in Bug Bounty and Ethical Hacking
+This repository contains my learning notes, commands, CTF solutions, practical exercises, and home lab projects.
 
-## Skills & Technologies
-- Linux (Kali Linux)
-- Networking
+## 🎯 Learning Goals
+
+- Learn Networking Fundamentals.
+- Develop Linux and Bash skills.
+- Master Nmap and service enumeration.
+- Learn Web Application Security.
+- Practice ethical hacking and penetration testing.
+- Develop Bug Bounty Hunting skills.
+- Build practical cybersecurity projects.
+
+## 🛠️ Tools & Technologies
+
+- Kali Linux
 - Nmap
-- Metasploit
 - Burp Suite
-- Python (Learning)
+- Metasploit Framework
+- Gobuster
+- Hydra
+- Wireshark
+- Git & GitHub
 
-## TryHackMe Labs
-- SOC Fundamentals
-- Nmap
-- Network Services
-- Takeover
-- Ice
+## 📚 Repository Contents
 
-## Projects
-Coming soon...
+| Folder | Description |
+|---|---|
+| Networking | Networking concepts and commands |
+| Linux | Linux commands and fundamentals |
+| Nmap | Network scanning and enumeration |
+| Service-Enumeration | Port and service enumeration notes |
+| CTF | CTF challenges and solutions |
+| TryHackMe | Practical lab notes and learning |
+| Home-Labs | Personal cybersecurity lab projects |
+| Web-Security | Web vulnerabilities and security testing |
 
-## Learning Goals
-- Improve networking knowledge
-- Learn web application security
-- Practice bug bounty hunting
-- Build practical security tools
+## 🧪 Practice Platforms
+
+- [TryHackMe](https://tryhackme.com/)
+- [OverTheWire](https://overthewire.org/)
+- [PortSwigger Web Security Academy](https://portswigger.net/web-security)
+
+## 📈 Learning Progress
+
+I'm continuously improving my cybersecurity knowledge through hands-on practice, practical labs, and independent research.
+
+This repository will be updated as I learn new concepts and complete more challenges.
+
+## ⚠️ Disclaimer
+
+All activities documented here are intended for educational purposes and authorized security testing only.
+
+---
+
+**Learning. Practicing. Improving.**
