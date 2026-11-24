@@ -4,7 +4,7 @@
 
 A **Domain Name** is a human-readable name that identifies a website or other internet service.
 
-It works as a human-readable address instead of requiring users to remember an IP address.
+It works as a human-readable address instead of requiring users to remember an IP address
 
 **Example:**
 
