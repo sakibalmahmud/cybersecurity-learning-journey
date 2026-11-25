@@ -1,57 +1,52 @@
-# Capture The Flag (CTF) Writeups
+# PicoCTF
 
-Welcome to my CTF repository!
+This directory contains my PicoCTF challenge writeups, solutions, and learning notes.
 
-This folder contains my personal CTF challenge solutions, commands, and notes from hands-on cybersecurity practice.
+[PicoCTF](https://picoctf.org/) is a cybersecurity competition and learning platform designed to help students and beginners develop practical cybersecurity skills through hands-on challenges.
 
-I'm documenting the techniques and tools I learn while solving challenges to improve my problem-solving and practical security skills.
+## Learning Areas
 
-## 🎯 Practice Platform
+The challenges in this directory may cover the following cybersecurity topics:
 
-**CyLab Security Academy**
+- **Cryptography** – Encryption, decryption, encoding, hashing, and cryptographic attacks.
+- **Web Exploitation** – Web application vulnerabilities and exploitation techniques.
+- **Forensics** – Analyzing files, images, network traffic, and digital evidence.
+- **General Skills** – Linux commands, scripting, encoding, and problem-solving.
+- **Reverse Engineering** – Understanding program behavior and analyzing compiled files.
+- **Binary Exploitation** – Learning memory corruption and binary-level vulnerabilities.
 
-- [Official Website](https://www.cylabacademy.org/)
-- [Challenge Platform](https://learn.cylabacademy.org/)
+## Tools & Technologies
 
-## 📚 Challenge Categories
-
-| Category | Description |
-|---|---|
-| General Skills | Linux commands, networking, and basic tools |
-| Cryptography | Encoding, decoding, hashing, and ciphers |
-| Binary | Binary exploitation and program analysis |
-| JavaScript | JavaScript-based security challenges |
-| Forensics | File analysis and hidden information |
-| Web Exploitation | Web vulnerabilities and exploitation |
-
-## 🛠️ Tools Used
+Tools and technologies used while solving challenges may include:
 
 - Kali Linux
-- Netcat (nc)
-- Nmap
-- Git
-- John the Ripper
-- SMBClient
 - Python
-- Linux CLI Tools
+- Linux command-line utilities
+- Cybersecurity analysis tools
+- Cryptography libraries
+- Text and file analysis utilities
 
-## 📂 Repository Structure
+## My Approach
 
-```text
-CTF/
-├── README.md
-├── General-Skills/
-├── Cryptography/
-├── Binary/
-├── JavaScript/
-├── Forensics/
-└── Web-Exploitation/
-```
+For each challenge, I aim to:
 
-## 📈 Progress
+1. Understand the challenge objective.
+2. Analyze the provided files, source code, or information.
+3. Identify the underlying concept or vulnerability.
+4. Apply appropriate tools and techniques.
+5. Document the solution process and important findings.
+6. Record key lessons learned from the challenge.
 
-This repository will be updated as I solve more CTF challenges and learn new cybersecurity techniques.
+## Purpose
 
----
+The purpose of this directory is to:
 
-**Learn • Practice • Solve • Document**
+- Build practical cybersecurity skills.
+- Improve problem-solving and analytical thinking.
+- Strengthen Linux command-line and Python skills.
+- Understand common security concepts through hands-on practice.
+- Maintain a record of my cybersecurity learning journey.
+
+## Disclaimer
+
+These writeups are published for educational purposes and to document my personal learning progress. All activities are performed within authorized CTF environments and practice platforms.
