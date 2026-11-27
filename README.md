@@ -1,5 +1,9 @@
 # Cybersecurity Notes & Learning Journey
 
+**Author:** Sakib Al Mahmud  
+**GitHub Username:** `sakibalmahmud`  
+**GitHub Profile:** [github.com/sakibalmahmud](https://github.com/sakibalmahmud)
+
 Welcome to my Cybersecurity Learning Repository!
 
 I'm a beginner cybersecurity enthusiast working towards becoming a skilled cybersecurity professional, with a primary focus on **Web Security and Bug Bounty Hunting**.
@@ -29,7 +33,7 @@ This repository contains my learning notes, commands, CTF solutions, practical e
 
 ## 📚 Repository Contents
 
-| Folder | Description |
+| **Folder** | **Description** |
 |---|---|
 | Networking | Networking concepts and commands |
 | Linux | Linux commands and fundamentals |
